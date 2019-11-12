@@ -3,7 +3,7 @@
 		<div class="maincontent clear">
 			<div class="about">
 				<div class="notfound">
-    				<p><span>404</span> Not Found Anyting!</p>
+    				<p><span>404</span> Not Found Nothing!</p>
     			</div>
 	        </div>
 		</div>
