@@ -1,5 +1,4 @@
 ------------------ For More Help -----------------
-Tutorial site: http://www.trainingwithliveproject.com
-Like us Facebook : https://web.facebook.com/ProDelowar
-Join us Facebook : https://web.facebook.com/groups/PBPTBD
-Join our Forum: http://www.idbscholarsforum.com
+site: http://www.toufiq.net
+Like us Facebook : https://web.facebook.com/ittoufiq
+Join our Forum: http://www.twitter.com/ittoufiq
